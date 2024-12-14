@@ -3,11 +3,11 @@
 
     "tree": {
         "$className": "DataModel",
-        "$ignoreUnknownInstances": true,
+        "$ignoreUnknownInstances": false,
         
         "Workspace": {
             "$className": "Workspace",
-            "$ignoreUnknownInstances": true,
+            "$ignoreUnknownInstances": false,
 
             "SM64": {
                 "$className": "Folder",
