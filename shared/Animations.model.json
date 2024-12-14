@@ -1,1050 +1,1035 @@
 {
 	"className": "Folder",
-
+	
 	"children": [
 		{
 			"name": "AIRBORNE_ON_STOMACH",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "4F6FDC"
 			}
 		},
-
+        
 		{
 			"name": "AIR_KICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049498"
+				"AnimationId": "rbxassetid://100111057862252"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "5290E4"
 			}
 		},
-
+        
 		{
 			"name": "A_POSE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049348"
+				"AnimationId": "rbxassetid://128464004729014"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 1,
 				"StartAddress": "4F4E7C"
 			}
 		},
-
-		{
-			"name": "STAND_AGAINST_WALL",
-			"className": "Animation",
-
-			"properties": {
-				"AnimationId": "rbxassetid://11352049348"
-			},
-
-			"attributes": {
-				"Loop": true,
-				"NumFrames": 80,
-				"StartAddress": "543B40"
-			}
-		},
-
+        
 		{
 			"name": "BACKFLIP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048293"
+				"AnimationId": "rbxassetid://123669876887384"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 32,
 				"StartAddress": "4EFED4"
 			}
 		},
-
+        
 		{
 			"name": "BACKWARDS_WATER_KB",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "55C9F0"
 			}
 		},
-
+        
 		{
 			"name": "BACKWARD_AIR_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051378"
+				"AnimationId": "rbxassetid://130627596223593"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 79,
 				"StartAddress": "4ED1E8"
 			}
 		},
-
+        
 		{
 			"name": "BACKWARD_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050703"
+				"AnimationId": "rbxassetid://86237694223463"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "546DE8"
 			}
 		},
-
+        
 		{
 			"name": "BACKWARD_SPINNING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048630"
+				"AnimationId": "rbxassetid://129063430086663"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 9,
 				"StartAddress": "53E68C"
 			}
 		},
-
+        
 		{
 			"name": "BEING_GRABBED",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "52E7BC"
 			}
 		},
-
+        
 		{
 			"name": "BEND_KNESS_RIDING_SHELL",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "105400408200100"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "52AD28"
 			}
 		},
-
+        
 		{
 			"name": "BOTTOM_STUCK_IN_GROUND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 153,
 				"StartAddress": "520594"
 			}
 		},
-
+        
 		{
 			"name": "BREAKDANCE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051730"
+				"AnimationId": "rbxassetid://92701068107997"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "53E804"
 			}
 		},
-
+        
 		{
 			"name": "CLIMB_DOWN_LEDGE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051211"
+				"AnimationId": "rbxassetid://93400447033213"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "4FCDE8"
 			}
 		},
-
+        
 		{
 			"name": "CLIMB_UP_POLE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 88,
 				"StartAddress": "4F08C0"
 			}
 		},
-
+        
 		{
 			"name": "COUGHING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 88,
 				"StartAddress": "511504"
 			}
 		},
-
+        
 		{
 			"name": "CRAWLING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052115"
+				"AnimationId": "rbxassetid://98559127479631"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 91,
 				"StartAddress": "55897C"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_LOOK_BACK_THEN_RUN",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 119,
 				"StartAddress": "50353C"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_LOOK_UP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "4FD880"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_LOWER_HAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 33,
 				"StartAddress": "5000DC"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_PEACE_SIGN",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 111,
 				"StartAddress": "509924"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_RAISE_HAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 94,
 				"StartAddress": "4FE3F4"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_RETURN_FROM_LOOK_UP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "4FDF90"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_START_WALK_LOOK_UP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "501410"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_TAKE_OFF_CAP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 26,
 				"StartAddress": "500C24"
 			}
 		},
-
+        
 		{
 			"name": "CREDITS_WAVING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 33,
 				"StartAddress": "4FD208"
 			}
 		},
-
+        
 		{
 			"name": "CROUCHING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047610"
+				"AnimationId": "rbxassetid://139466588097022"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 88,
 				"StartAddress": "557DA0"
 			}
 		},
-
+        
 		{
 			"name": "CROUCH_FROM_FAST_LONGJUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050905"
+				"AnimationId": "rbxassetid://99089232781010"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "4F56EC"
 			}
 		},
-
+        
 		{
 			"name": "CROUCH_FROM_SLIDE_KICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051333"
+				"AnimationId": "rbxassetid://97757353602344"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "554540"
 			}
 		},
-
+        
 		{
 			"name": "CROUCH_FROM_SLOW_LONGJUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051177"
+				"AnimationId": "rbxassetid://129027311748895"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "4F5C98"
 			}
 		},
-
+        
 		{
 			"name": "DIVE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047742"
+				"AnimationId": "rbxassetid://82516979172711"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "552224"
 			}
 		},
-
+        
 		{
 			"name": "DOUBLE_JUMP_FALL",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051260"
+				"AnimationId": "rbxassetid://132101906247598"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 8,
 				"StartAddress": "52826C"
 			}
 		},
-
+        
 		{
 			"name": "DOUBLE_JUMP_RISE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051650"
+				"AnimationId": "rbxassetid://127746749930947"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "529824"
 			}
 		},
-
+        
 		{
 			"name": "DROWNING_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 79,
 				"StartAddress": "55FF88"
 			}
 		},
-
+        
 		{
 			"name": "DROWNING_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 69,
 				"StartAddress": "5614B8"
 			}
 		},
-
+        
 		{
 			"name": "DYING_FALL_OVER",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 94,
 				"StartAddress": "515604"
 			}
 		},
-
+        
 		{
 			"name": "DYING_IN_QUICKSAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "54141C"
 			}
 		},
-
+        
 		{
 			"name": "DYING_ON_BACK",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 63,
 				"StartAddress": "4EECAC"
 			}
 		},
-
+        
 		{
 			"name": "DYING_ON_STOMACH",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 45,
 				"StartAddress": "50EA0C"
 			}
 		},
-
+        
 		{
 			"name": "ELECTROCUTION",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 52,
 				"StartAddress": "545BF8"
 			}
 		},
-
+        
 		{
 			"name": "FALL_FROM_SLIDE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047641"
+				"AnimationId": "rbxassetid://79122061326939"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "555214"
 			}
 		},
-
+        
 		{
 			"name": "FALL_FROM_SLIDE_KICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051585"
+				"AnimationId": "rbxassetid://138993442431756"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "52A460"
 			}
 		},
-
+        
 		{
 			"name": "FALL_FROM_SLIDING_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "524F78"
 			}
 		},
-
+        
 		{
 			"name": "FALL_FROM_WATER",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101766690"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "564558"
 			}
 		},
-
+        
 		{
 			"name": "FALL_LAND_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "524940"
 			}
 		},
-
+        
 		{
 			"name": "FALL_OVER_BACKWARDS",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://11352051687"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 79,
 				"StartAddress": "4ED1D0"
 			}
 		},
-
+        
 		{
 			"name": "FALL_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "81716073224580"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 1,
 				"StartAddress": "524E10"
 			}
 		},
-
+        
 		{
 			"name": "FAST_LEDGE_GRAB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047471"
+				"AnimationId": "rbxassetid://89571556287377"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "518218"
 			}
 		},
-
+        
 		{
 			"name": "FAST_LONGJUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047402"
+				"AnimationId": "rbxassetid://111182769472044"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "4F62D4"
 			}
 		},
-
+        
 		{
 			"name": "FIRE_LAVA_BURN",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052065"
+				"AnimationId": "rbxassetid://103150473996444"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 9,
 				"StartAddress": "50C254"
 			}
 		},
-
+        
 		{
 			"name": "FIRST_PERSON",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 88,
 				"StartAddress": "570CB0"
 			}
 		},
-
+        
 		{
 			"name": "FIRST_PUNCH",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049234"
+				"AnimationId": "rbxassetid://117830016963003"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "53C1B4"
 			}
 		},
-
+        
 		{
 			"name": "FIRST_PUNCH_FAST",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050809"
+				"AnimationId": "rbxassetid://77292909524920"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "53C6B4"
 			}
 		},
-
+        
 		{
 			"name": "FLUTTERKICK",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101764246"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 22,
 				"StartAddress": "565610"
 			}
 		},
-
+        
 		{
 			"name": "FLUTTERKICK_WITH_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "55E164"
 			}
 		},
-
+        
 		{
 			"name": "FLY_FROM_CANNON",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://11352049444"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "5307F0"
 			}
 		},
-
+        
 		{
 			"name": "FORWARD_AIR_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049706"
+				"AnimationId": "rbxassetid://116355843304112"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 79,
 				"StartAddress": "50D304"
 			}
 		},
-
+        
 		{
 			"name": "FORWARD_FLIP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "116355843304112"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "527248"
 			}
 		},
-
+        
 		{
 			"name": "FORWARD_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048586"
+				"AnimationId": "rbxassetid://106577155248557"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "547834"
 			}
 		},
-
+        
 		{
 			"name": "FORWARD_SPINNING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051497"
+				"AnimationId": "rbxassetid://110983990020527"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 9,
 				"StartAddress": "53E674"
 			}
 		},
-
+        
 		{
 			"name": "FORWARD_SPINNING_FLIP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052012"
+				"AnimationId": "rbxassetid://135875187094499"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 41,
 				"StartAddress": "578C80"
 			}
 		},
-
+        
 		{
 			"name": "GENERAL_FALL",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049372"
+				"AnimationId": "rbxassetid://131225659890551"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 22,
 				"StartAddress": "52E078"
 			}
 		},
-
+        
 		{
 			"name": "GENERAL_LAND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047093"
+				"AnimationId": "rbxassetid://101871346297186"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "52E090"
 			}
 		},
-
+        
 		{
 			"name": "GRAB_HEAVY_OBJECT",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "110201658859127"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 36,
 				"StartAddress": "52ED0C"
 			}
 		},
-
+        
 		{
 			"name": "GRAB_POLE_SHORT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 11,
 				"StartAddress": "4F2078"
 			}
 		},
-
+        
 		{
 			"name": "GRAB_POLE_SWING_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "4F2508"
 			}
 		},
-
+        
 		{
 			"name": "GRAB_POLE_SWING_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "4F2520"
 			}
 		},
-
+        
 		{
 			"name": "GROUND_BONK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051423"
+				"AnimationId": "rbxassetid://111072653492924"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 39,
 				"StartAddress": "55283C"
 			}
 		},
-
+        
 		{
 			"name": "GROUND_KICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049273"
+				"AnimationId": "rbxassetid://126920347118822"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "53B904"
 			}
 		},
-
+        
 		{
 			"name": "GROUND_POUND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047298"
+				"AnimationId": "rbxassetid://140128641613615"
 			},
-
+            
 			"attributes": {
 				"StartFrame": 9,
 				"NumFrames": 9,
@@ -1052,345 +1037,345 @@
 				"StartAddress": "520178"
 			}
 		},
-
+        
 		{
 			"name": "GROUND_POUND_LANDING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047167"
+				"AnimationId": "rbxassetid://98013784357317"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "51F90C"
 			}
 		},
-
+        
 		{
 			"name": "GROUND_THROW",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "97076743964807"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "53B14C"
 			}
 		},
-
+        
 		{
 			"name": "HANDSTAND_IDLE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 35,
 				"StartAddress": "4F38F0"
 			}
 		},
-
+        
 		{
 			"name": "HANDSTAND_JUMP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "4F43F4"
 			}
 		},
-
+        
 		{
 			"name": "HANDSTAND_LEFT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "573CF8"
 			}
 		},
-
+        
 		{
 			"name": "HANDSTAND_RIGHT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "574490"
 			}
 		},
-
+        
 		{
 			"name": "HANG_ON_CEILING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 52,
 				"StartAddress": "518840"
 			}
 		},
-
+        
 		{
 			"name": "HANG_ON_OWL",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 39,
 				"StartAddress": "50CBA8"
 			}
 		},
-
+        
 		{
 			"name": "HEAD_STUCK_IN_GROUND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 153,
 				"StartAddress": "51C774"
 			}
 		},
-
+        
 		{
 			"name": "HEAVY_THROW",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "56C42C"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_HEAD_CENTER",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052244"
+				"AnimationId": "rbxassetid://71313043263161"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "57344C"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_HEAD_LEFT",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050647"
+				"AnimationId": "rbxassetid://77745803299199"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "5722F4"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_HEAD_RIGHT",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051871"
+				"AnimationId": "rbxassetid://118610893626295"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "572BA0"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_HEAVY_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 39,
 				"StartAddress": "548244"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_IN_QUICKSAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 99,
 				"StartAddress": "542758"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_ON_LEDGE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048196"
+				"AnimationId": "rbxassetid://118610893626295"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 49,
 				"StartAddress": "5175EC"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_ON_POLE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 111,
 				"StartAddress": "4F4A64"
 			}
 		},
-
+        
 		{
 			"name": "IDLE_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 60,
 				"StartAddress": "52338C"
 			}
 		},
-
+        
 		{
 			"name": "JUMP_LAND_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 18,
 				"StartAddress": "5240B8"
 			}
 		},
-
+        
 		{
 			"name": "JUMP_RIDING_SHELL",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 6,
 				"StartAddress": "527870"
 			}
 		},
-
+        
 		{
 			"name": "JUMP_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "524614"
 			}
 		},
-
+        
 		{
 			"name": "LAND_FROM_DOUBLE_JUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051292"
+				"AnimationId": "rbxassetid://75474743674439"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "527BEC"
 			}
 		},
-
+        
 		{
 			"name": "LAND_FROM_SINGLE_JUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047870"
+				"AnimationId": "rbxassetid://133893690533707"
 			},
-
+            
 			"attributes": {
 				"StartFrame": 27,
 				"NumFrames": 36,
@@ -1398,555 +1383,555 @@
 				"StartAddress": "528638"
 			}
 		},
-
+        
 		{
 			"name": "LAND_ON_STOMACH",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049322"
+				"AnimationId": "rbxassetid://100088917526997"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 79,
 				"StartAddress": "50D2EC"
 			}
 		},
-
+        
 		{
 			"name": "LEGS_STUCK_IN_GROUND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 150,
 				"StartAddress": "52B360"
 			}
 		},
-
+        
 		{
 			"name": "MISSING_CAP",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 153,
 				"StartAddress": "531760"
 			}
 		},
-
+        
 		{
 			"name": "MOVE_IN_QUICKSAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 147,
 				"StartAddress": "54320C"
 			}
 		},
-
+        
 		{
 			"name": "MOVE_ON_WIRE_NET_LEFT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 18,
 				"StartAddress": "5311D4"
 			}
 		},
-
+        
 		{
 			"name": "MOVE_ON_WIRE_NET_RIGHT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "530BD4"
 			}
 		},
-
+        
 		{
 			"name": "PICK_UP_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "53CFFC"
 			}
 		},
-
+        
 		{
 			"name": "PLACE_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "53E0F0"
 			}
 		},
-
+        
 		{
 			"name": "PULL_DOOR_WALK_IN",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 58,
 				"StartAddress": "5347C4"
 			}
 		},
-
+        
 		{
 			"name": "PUSHING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050923"
+				"AnimationId": "rbxassetid://107732653686191"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 26,
 				"StartAddress": "53D4BC"
 			}
 		},
-
+        
 		{
 			"name": "PUSH_DOOR_WALK_IN",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "535C9C"
 			}
 		},
-
+        
 		{
 			"name": "PUT_CAP_ON",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 45,
 				"StartAddress": "5197CC"
 			}
 		},
-
+        
 		{
 			"name": "QUICKLY_PUT_CAP_ON",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 11,
 				"StartAddress": "51C314"
 			}
 		},
-
+        
 		{
 			"name": "REACH_POCKET",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 32,
 				"StartAddress": "53A3E8"
 			}
 		},
-
+        
 		{
 			"name": "RETURN_FROM_HANDSTAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 51,
 				"StartAddress": "4F2BF0"
 			}
 		},
-
+        
 		{
 			"name": "RETURN_FROM_STAR_DANCE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "5785B8"
 			}
 		},
-
+        
 		{
 			"name": "RETURN_FROM_WATER_STAR_DANCE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "56A478"
 			}
 		},
-
+        
 		{
 			"name": "RETURN_STAR_APPROACH_DOOR",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "55C144"
 			}
 		},
-
+        
 		{
 			"name": "RIDING_SHELL",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "5258EC"
 			}
 		},
-
+        
 		{
 			"name": "RUNNING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://11352052200"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 70,
 				"StartAddress": "53F138"
 			}
 		},
-
+        
 		{
 			"name": "RUNNING_UNUSED",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 70,
 				"StartAddress": "53F150"
 			}
 		},
-
+        
 		{
 			"name": "RUN_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 75,
 				"StartAddress": "4F870C"
 			}
 		},
-
+        
 		{
 			"name": "SECOND_PUNCH",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049182"
+				"AnimationId": "rbxassetid://136562982158064"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 3,
 				"StartAddress": "53C44C"
 			}
 		},
-
+        
 		{
 			"name": "SECOND_PUNCH_FAST",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048802"
+				"AnimationId": "rbxassetid://99082539239593"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 12,
 				"StartAddress": "53CAC4"
 			}
 		},
-
+        
 		{
 			"name": "SHIVERING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 63,
 				"StartAddress": "4FC1A8"
 			}
 		},
-
+        
 		{
 			"name": "SHIVERING_RETURN_TO_IDLE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "4FBC18"
 			}
 		},
-
+        
 		{
 			"name": "SHIVERING_WARMING_HAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 85,
 				"StartAddress": "4FA618"
 			}
 		},
-
+        
 		{
 			"name": "SHOCKED",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
-				"Loop": true,
+				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "546B40"
 			}
 		},
-
+        
 		{
 			"name": "SIDESTEP_LEFT",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048019"
+				"AnimationId": "rbxassetid://92059379917428"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 63,
 				"StartAddress": "549A84"
 			}
 		},
-
+        
 		{
 			"name": "SIDESTEP_RIGHT",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048466"
+				"AnimationId": "rbxassetid://139509968576883"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 63,
 				"StartAddress": "54A9C0"
 			}
 		},
-
+        
 		{
 			"name": "SINGLE_JUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047064"
+				"AnimationId": "rbxassetid://94534288188041"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 36,
 				"StartAddress": "528620"
 			}
 		},
-
+        
 		{
 			"name": "SKID_ON_GROUND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047121"
+				"AnimationId": "rbxassetid://132362524194293"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 18,
 				"StartAddress": "4F4FE0"
 			}
 		},
-
+        
 		{
 			"name": "SLEEP_IDLE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049661"
+				"AnimationId": "rbxassetid://114693717990048"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 39,
 				"StartAddress": "550C30"
 			}
 		},
-
+        
 		{
 			"name": "SLEEP_LYING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048132"
+				"AnimationId": "rbxassetid://78392567124494"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 49,
 				"StartAddress": "551AF4"
 			}
 		},
-
+        
 		{
 			"name": "SLEEP_START_LYING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048165"
+				"AnimationId": "rbxassetid://81743663323448"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 39,
 				"StartAddress": "550E88"
 			}
 		},
-
+        
 		{
 			"name": "SLIDE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047259"
+				"AnimationId": "rbxassetid://87097437891505"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 6,
 				"StartAddress": "55571C"
 			}
 		},
-
+        
 		{
 			"name": "SLIDEFLIP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047005"
+				"AnimationId": "rbxassetid://83708188963688"
 			},
-
+            
 			"attributes": {
 				"NumFrames": 22,
 				"Flip": true,
@@ -1954,15 +1939,15 @@
 				"StartAddress": "56EEAC"
 			}
 		},
-
+        
 		{
 			"name": "SLIDEFLIP_LAND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047032"
+				"AnimationId": "rbxassetid://111127577691678"
 			},
-
+            
 			"attributes": {
 				"NumFrames": 9,
 				"Flip": true,
@@ -1970,495 +1955,495 @@
 				"StartAddress": "56EAA0"
 			}
 		},
-
+        
 		{
 			"name": "SLIDEJUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052142"
+				"AnimationId": "rbxassetid://88821708522621"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "5769D0"
 			}
 		},
-
+        
 		{
 			"name": "SLIDE_DIVE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048497"
+				"AnimationId": "rbxassetid://128799784508889"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "55223C"
 			}
 		},
-
+        
 		{
 			"name": "SLIDE_KICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047204"
+				"AnimationId": "rbxassetid://73710149312456"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 6,
 				"StartAddress": "5541A4"
 			}
 		},
-
+        
 		{
 			"name": "SLIDE_MOTIONLESS",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "554A94"
 			}
 		},
-
+        
 		{
 			"name": "SLIDING_ON_BOTTOM_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "525318"
 			}
 		},
-
+        
 		{
 			"name": "SLOW_LAND_FROM_DIVE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051792"
+				"AnimationId": "rbxassetid://94879236656350"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 36,
 				"StartAddress": "52FA0C"
 			}
 		},
-
+        
 		{
 			"name": "SLOW_LEDGE_GRAB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050847"
+				"AnimationId": "rbxassetid://77166483842882"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 33,
 				"StartAddress": "4EC690"
 			}
 		},
-
+        
 		{
 			"name": "SLOW_LONGJUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050966"
+				"AnimationId": "rbxassetid://93708705620879"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "4F6A78"
 			}
 		},
-
+        
 		{
 			"name": "SLOW_WALK_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "4F93A0"
 			}
 		},
-
+        
 		{
 			"name": "SOFT_BACK_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051970"
+				"AnimationId": "rbxassetid://100024519371374"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "54035C"
 			}
 		},
-
+        
 		{
 			"name": "SOFT_FRONT_KB",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052043"
+				"AnimationId": "rbxassetid://138412897630505"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "540BA4"
 			}
 		},
-
+        
 		{
 			"name": "STAND_UP_FROM_LAVA_BOOST",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051900"
+				"AnimationId": "rbxassetid://114123768361166"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "50BD4C"
 			}
 		},
-
+        
 		{
 			"name": "STAND_UP_FROM_SLIDING_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "525330"
 			}
 		},
-
+        
 		{
 			"name": "START_CRAWLING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047517"
+				"AnimationId": "rbxassetid://106658206016888"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 6,
 				"StartAddress": "55A990"
 			}
 		},
-
+        
 		{
 			"name": "START_CROUCHING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050939"
+				"AnimationId": "rbxassetid://126646516800108"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "557AEC"
 			}
 		},
-
+        
 		{
 			"name": "START_FORWARD_SPINNING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "529ADC"
 			}
 		},
-
+        
 		{
 			"name": "START_GROUND_POUND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049543"
+				"AnimationId": "rbxassetid://90426245988048"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "520160"
 			}
 		},
-
+        
 		{
 			"name": "START_HANDSTAND",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "4F440C"
 			}
 		},
-
+        
 		{
 			"name": "START_REACH_POCKET",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "539FEC"
 			}
 		},
-
+        
 		{
 			"name": "START_RIDING_SHELL",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "53DAD4"
 			}
 		},
-
+        
 		{
 			"name": "START_SLEEP_IDLE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047689"
+				"AnimationId": "rbxassetid://76659283757810"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "54BB6C"
 			}
 		},
-
+        
 		{
 			"name": "START_SLEEP_SCRATCH",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048360"
+				"AnimationId": "rbxassetid://78855223379664"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 66,
 				"StartAddress": "54CD54"
 			}
 		},
-
+        
 		{
 			"name": "START_SLEEP_SITTING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048251"
+				"AnimationId": "rbxassetid://88667083572707"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 63,
 				"StartAddress": "54F888"
 			}
 		},
-
+        
 		{
 			"name": "START_SLEEP_YAWN",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051942"
+				"AnimationId": "rbxassetid://86296132848543"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 58,
 				"StartAddress": "54E4F4"
 			}
 		},
-
+        
 		{
 			"name": "START_TIPTOE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051161"
+				"AnimationId": "rbxassetid://118619414819466"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "5760EC"
 			}
 		},
-
+        
 		{
 			"name": "START_TWIRL",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048529"
+				"AnimationId": "rbxassetid://119602447248746"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "557504"
 			}
 		},
-
+        
 		{
 			"name": "START_WALLKICK",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049598"
+				"AnimationId": "rbxassetid://131774296266943"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "5769E8"
 			}
 		},
-
+        
 		{
 			"name": "STAR_DANCE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 61,
 				"StartAddress": "577064"
 			}
 		},
-
+        
 		{
 			"name": "STOP_CRAWLING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://11352051464"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 6,
 				"StartAddress": "55A5F8"
 			}
 		},
-
+        
 		{
 			"name": "STOP_CROUCHING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "557730"
 			}
 		},
-
+        
 		{
 			"name": "STOP_GRAB_OBJ_WATER",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "55ECCC"
 			}
 		},
-
+        
 		{
 			"name": "STOP_REACH_POCKET",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "53AB58"
 			}
 		},
-
+        
 		{
 			"name": "STOP_SKID",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048056"
+				"AnimationId": "rbxassetid://96694348041334"
 			},
-
+            
 			"attributes": {
 				"StartFrame": 6,
 				"NumFrames": 18,
@@ -2466,585 +2451,585 @@
 				"StartAddress": "4F4FF8"
 			}
 		},
-
+        
 		{
 			"name": "STOP_SLIDE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047796"
+				"AnimationId": "rbxassetid://117120767354257"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "554AAC"
 			}
 		},
-
+        
 		{
 			"name": "STOP_SLIDE_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 36,
 				"StartAddress": "5534F4"
 			}
 		},
-
+        
 		{
 			"name": "SUFFOCATING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "50F6F4"
 			}
 		},
-
+        
 		{
 			"name": "SUMMON_STAR",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 63,
 				"StartAddress": "55AD1C"
 			}
 		},
-
+        
 		{
 			"name": "SWIM_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101761759"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "564D2C"
 			}
 		},
-
+        
 		{
 			"name": "SWIM_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101760003"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "56520C"
 			}
 		},
-
+        
 		{
 			"name": "SWIM_WITH_OBJ_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "55DAAC"
 			}
 		},
-
+        
 		{
 			"name": "SWIM_WITH_OBJ_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "55DEC8"
 			}
 		},
-
+        
 		{
 			"name": "TAKE_CAP_OFF_THEN_ON",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "51A754"
 			}
 		},
-
+        
 		{
 			"name": "THROW_CATCH_KEY",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 138,
 				"StartAddress": "512B4C"
 			}
 		},
-
+        
 		{
 			"name": "THROW_LIGHT_OBJECT",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "529FDC"
 			}
 		},
-
+        
 		{
 			"name": "TIPTOE",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051080"
+				"AnimationId": "rbxassetid://94087570883338"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 114,
 				"StartAddress": "55593C"
 			}
 		},
-
+        
 		{
 			"name": "TRIPLE_JUMP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052291"
+				"AnimationId": "rbxassetid://84007506527747"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 35,
 				"StartAddress": "5701F8"
 			}
 		},
-
+        
 		{
 			"name": "TRIPLE_JUMP_FLY",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352049410"
+				"AnimationId": "rbxassetid://109871601680209"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 13,
 				"StartAddress": "579828"
 			}
 		},
-
+        
 		{
 			"name": "TRIPLE_JUMP_GROUND_POUND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050763"
+				"AnimationId": "rbxassetid://109871601680209"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 15,
 				"StartAddress": "51FB98"
 			}
 		},
-
+        
 		{
 			"name": "TRIPLE_JUMP_LAND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352052333"
+				"AnimationId": "rbxassetid://74534754384048"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 30,
 				"StartAddress": "56F750"
 			}
 		},
-
+        
 		{
 			"name": "TURNING_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047143"
+				"AnimationId": "rbxassetid://102929332952093"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "56E37C"
 			}
 		},
-
+        
 		{
 			"name": "TURNING_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048732"
+				"AnimationId": "rbxassetid://111362081480832"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 16,
 				"StartAddress": "56E394"
 			}
 		},
-
+        
 		{
 			"name": "TWIRL",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047341"
+				"AnimationId": "rbxassetid://125666399884025"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 1,
 				"StartAddress": "5573A0"
 			}
 		},
-
+        
 		{
 			"name": "TWIRL_LAND",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352048089"
+				"AnimationId": "rbxassetid://130129005297417"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "557030"
 			}
 		},
-
+        
 		{
 			"name": "UNLOCK_DOOR",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 146,
 				"StartAddress": "536D64"
 			}
 		},
-
+        
 		{
 			"name": "WAKE_FROM_LYING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352050992"
+				"AnimationId": "rbxassetid://91804824963766"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "575844"
 			}
 		},
-
+        
 		{
 			"name": "WAKE_FROM_SLEEP",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352047932"
+				"AnimationId": "rbxassetid://134440085942063"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "5750C0"
 			}
 		},
-
+        
 		{
 			"name": "WALKING",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051130"
+				"AnimationId": "rbxassetid://127894960915997"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 76,
 				"StartAddress": "525D48"
 			}
 		},
-
+        
 		{
 			"name": "WALK_PANTING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 19,
 				"StartAddress": "56CD54"
 			}
 		},
-
+        
 		{
 			"name": "WALK_WITH_HEAVY_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 96,
 				"StartAddress": "56D244"
 			}
 		},
-
+        
 		{
 			"name": "WALK_WITH_LIGHT_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 99,
 				"StartAddress": "4F7494"
 			}
 		},
-
+        
 		{
 			"name": "WATER_ACTION_END",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101757679"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "565DD0"
 			}
 		},
-
+        
 		{
 			"name": "WATER_ACTION_END_WITH_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 22,
 				"StartAddress": "55E610"
 			}
 		},
-
+        
 		{
 			"name": "WATER_DYING",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 39,
 				"StartAddress": "5627F4"
 			}
 		},
-
+        
 		{
 			"name": "WATER_FORWARD_KB",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 49,
 				"StartAddress": "5634FC"
 			}
 		},
-
+        
 		{
 			"name": "WATER_GRAB_OBJ_PART1",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101753873"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 4,
 				"StartAddress": "56747C"
 			}
 		},
-
+        
 		{
 			"name": "WATER_GRAB_OBJ_PART2",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101755961"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 24,
 				"StartAddress": "566AF8"
 			}
 		},
-
+        
 		{
 			"name": "WATER_IDLE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": "rbxassetid://14101750346"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "5681D0"
 			}
 		},
-
+        
 		{
 			"name": "WATER_IDLE_WITH_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 29,
 				"StartAddress": "55F800"
 			}
 		},
-
+        
 		{
 			"name": "WATER_PICK_UP_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 9,
 				"StartAddress": "566628"
 			}
 		},
-
+        
 		{
 			"name": "WATER_STAR_DANCE",
 			"className": "Animation",
-
+            
 			"properties": {
 				"AnimationId": ""
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 82,
 				"StartAddress": "568A04"
 			}
 		},
-
+        
 		{
 			"name": "WATER_THROW_OBJ",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": ""
+				"AnimationId": "112561670434833"
 			},
-
+            
 			"attributes": {
 				"Loop": false,
 				"NumFrames": 27,
 				"StartAddress": "567748"
 			}
 		},
-
+        
 		{
 			"name": "WING_CAP_FLY",
 			"className": "Animation",
-
+            
 			"properties": {
-				"AnimationId": "rbxassetid://11352051549"
+				"AnimationId": "rbxassetid://124312397585515"
 			},
-
+            
 			"attributes": {
 				"Loop": true,
 				"NumFrames": 39,
